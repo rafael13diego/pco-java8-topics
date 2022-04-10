@@ -6,4 +6,4 @@ Proyecto en el que se abarca los temas más relevantes en Java 8:
 ##THREADS
 ##INTERFACES
 ------
-Diego Rafael *AG-UD*
+Diego Rafael *D4Js-UD*
